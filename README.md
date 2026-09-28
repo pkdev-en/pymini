@@ -277,6 +277,6 @@ Theo `libcw.h`, hai dòng khác nhau ở phần cứng hiển thị và bộ nh�
 
 `pymini2.py` hiện ghi cả hai bitplane và đặt biến từ `0x9000`, nên **chưa dùng được cho CWX**. Muốn hỗ trợ cần thêm file khởi động (startup) và bản đồ bộ nhớ (linker map) của CWX.
 
-
 --
-co the co loi nen hay bao t ben discord
+
+> co the co loi nen hay bao t ben discord
