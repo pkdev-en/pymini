@@ -1,0 +1,9 @@
+ln = line(10, 10, 50, 40)
+wh 1 == 1:
+    if key() == "RIGHT":
+        move(ln, 5, 0)
+    elf key() == "OK":
+        moveto(ln, 0, 0)
+    elf key() == "AC":
+        erase(ln)
+    wait(50)

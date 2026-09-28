@@ -1,0 +1,4 @@
+wh 1 == 1:
+    if key() == "1":
+        print("Hello", 10, 10)
+    wait(50)
