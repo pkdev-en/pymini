@@ -1,8 +1,0 @@
-i = 0
-wh i < 100:
-    i = i + 1
-    if i == 5:
-        cont
-    if i == 10:
-        brk
-    print("x", 10, 10)
